@@ -7,6 +7,7 @@
 
 # Database and Tools
 
-Postgre SQL
-MySQL
+# Postgre SQL
+# MySQL
+
 Schema- Music Store Database
